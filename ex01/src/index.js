@@ -2,6 +2,7 @@
 function reusableFunction() {
     console.log("Hi Padawan!");
 }
+reusableFunction();
 // write code above this line
 
-module.exports = reusableFunction();
+module.exports = reusableFunction;
