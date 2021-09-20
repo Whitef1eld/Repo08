@@ -11,5 +11,5 @@ function myDress() {
 dress = myDress();
 // only change code above this line
 
-console.log(dress);
+console.log(dress)
 module.exports = myDress;
