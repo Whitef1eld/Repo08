@@ -8,7 +8,7 @@ function myDress() {
 }
 
 // only change code below this line
-dress = myDress();
+myDress();
 // only change code above this line
 
 console.log(dress)
