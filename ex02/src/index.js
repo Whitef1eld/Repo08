@@ -1,8 +1,9 @@
+// write code below this line
 function functionPrintInfo(name, age) {
     console.log(name, age);
 }
 
-module.exports = functionPrintInfo("John", 23);
-module.exports = functionPrintInfo("Michael", 43);
-
+functionPrintInfo("John", 23);
+functionPrintInfo("Michael", 43);
+// write code above this line
 module.exports = functionPrintInfo;
